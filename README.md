@@ -18,8 +18,8 @@ I'm a 19-year-old Brazilian student pursuing a degree in Systems Analysis and De
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Giihgallicchio&show_icons=true&theme=synthwave&hide_border=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Giihgallicchio&layout=compact&theme=synthwave&hide_border=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Giihgallicchio&show_icons=true&theme=gruvbox&hide_border=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Giihgallicchio&layout=compact&theme=gruvbox&hide_border=true"/>
 </div>
 
 ## 📫 Contact
