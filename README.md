@@ -1,4 +1,4 @@
-# Hi, I'm Giovanna! 👋
+# Hi, I'm Giovanna Gallicchio! 👋
 
 I'm a 19-year-old Brazilian student pursuing a degree in Systems Analysis and Development, based in São Paulo, Brazil.
 
@@ -22,7 +22,7 @@ I'm a 19-year-old Brazilian student pursuing a degree in Systems Analysis and De
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Giihgallicchio&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-## 📫 Connect with me
+## 📫 Contact
 
 Click the button below to view my full LinkedIn profile.
 
