@@ -1,12 +1,16 @@
-<p align="center">
-  <img width="120" src="https://media.tenor.com/DKJvTPspsZYAAAAj/dark-gengar.gif" alt="Gengar">
-</p>
-
-# Hi, I'm Giovanna Gallicchio! 👋
-
-I'm a 19-year-old Brazilian student pursuing a degree in Systems Analysis and Development, based in São Paulo, Brazil.
-
-<br clear="right">
+<table>
+  <tr>
+    <td width="75%" valign="middle">
+      <h1>Hi, I'm Giovanna Gallicchio! 👋</h1>
+      <p>
+        I'm a 19-year-old Brazilian student pursuing a degree in Systems Analysis and Development, based in São Paulo, Brazil.
+      </p>
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <img width="130" src="https://media.tenor.com/DKJvTPspsZYAAAAj/dark-gengar.gif" alt="Gengar">
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Technologies & Tools
 
