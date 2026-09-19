@@ -1,4 +1,4 @@
-# Hi, I'm Giovanna Gallicchio! 👋
+<h1>Hi, I'm Giovanna Gallicchio! 👋</h1>
 
 <img align="right" width="130" src="https://media.tenor.com/DKJvTPspsZYAAAAj/dark-gengar.gif" alt="Gengar">
 
