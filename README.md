@@ -21,7 +21,6 @@ I'm a 19-year-old Brazilian student pursuing a degree in Systems Analysis and De
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Gihgalicchio&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gihgalicchio&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
-
 ## 📫 Connect with me
 
 [LinkedIn] [Email]
