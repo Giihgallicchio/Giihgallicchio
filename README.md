@@ -1,4 +1,4 @@
-<img align="right" width="115" src="https://media.tenor.com/DKJvTPspsZYAAAAj/dark-gengar.gif" alt="Gengar">
+<img align="right" width="90" src="https://media.tenor.com/DKJvTPspsZYAAAAj/dark-gengar.gif" alt="Gengar">
 
 ## Hi, I'm Giovanna Gallicchio! 👋
 
