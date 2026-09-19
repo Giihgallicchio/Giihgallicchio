@@ -34,7 +34,7 @@
 
 ## 📫 Contact
 
-Click the button below to view my full LinkedIn profile.
+🔗 Click the button below to view my full LinkedIn profile.
 
 <a href="https://www.linkedin.com/in/giovanna-alves-galichio/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
