@@ -4,6 +4,8 @@
 
 I'm a 19-year-old Brazilian student pursuing a degree in Systems Analysis and Development, based in São Paulo, Brazil.
 
+<br clear="right">
+
 ## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
