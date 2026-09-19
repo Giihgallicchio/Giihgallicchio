@@ -1,6 +1,6 @@
 <img align="right" width="130" src="https://media.tenor.com/DKJvTPspsZYAAAAj/dark-gengar.gif" alt="Gengar">
 
-<h2>Hi, I'm Giovanna Gallicchio! 👋</h2>
+<p><strong>Hi, I'm Giovanna Gallicchio! 👋</strong></p>
 
 I'm a 19-year-old Brazilian student pursuing a degree in Systems Analysis and Development, based in São Paulo, Brazil.
 
