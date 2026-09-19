@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="75%" valign="middle">
-      <h1>Hi, I'm Giovanna Gallicchio! 👋</h1>
+      <h1>Hi, I'm Giovanna Galichio! 👋</h1>
       <p>
         I'm a 19-year-old Brazilian student pursuing a degree in Systems Analysis and Development, based in São Paulo, Brazil.
       </p>
