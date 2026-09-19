@@ -30,5 +30,10 @@ Click the button below to view my full LinkedIn profile.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-  <img src="https://raw.githubusercontent.com/Giihgallicchio/Giihgallicchio/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Giihgallicchio/Giihgallicchio/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Giihgallicchio/Giihgallicchio/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Giihgallicchio/Giihgallicchio/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
