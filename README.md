@@ -1,9 +1,17 @@
-# Hi, I'm Giovanna Gallicchio! 👋
+<table>
+  <tr>
+    <td width="75%" valign="top">
 
-<img align="right" width="130" src="https://media.tenor.com/DKJvTPspsZYAAAAj/dark-gengar.gif" alt="Gengar">
+# Hi, I'm Giovanna Gallicchio! 👋
 
 I'm a 19-year-old Brazilian student pursuing a degree in Systems Analysis and Development, based in São Paulo, Brazil.
 
+  </td>
+  <td width="25%" align="center" valign="middle">
+    <img width="130" src="https://media.tenor.com/DKJvTPspsZYAAAAj/dark-gengar.gif" alt="Gengar">
+  </td>
+  </tr>
+</table>
 ## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
