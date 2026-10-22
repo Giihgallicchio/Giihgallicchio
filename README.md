@@ -1,4 +1,4 @@
-<table>
+ <table>
   <tr>
     <td width="75%" valign="middle">
       <h1>Hi, I'm Giovanna Galichio! 👋</h1>
@@ -21,15 +21,15 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-7952B3?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Giihgallicchio&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Giihgallicchio&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Giihgallicchio&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 </div>
 
 ## 📫 Contact
